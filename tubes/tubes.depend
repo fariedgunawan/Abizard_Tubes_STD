@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1734106020 source:d:\github\abizard_tubes_std\tubes\child.cpp
+	"child.h"
+
+1734106020 d:\github\abizard_tubes_std\tubes\child.h
+	<iostream>
+
+1734106020 source:d:\github\abizard_tubes_std\tubes\parent.cpp
+	"parent.h"
+
+1734106020 d:\github\abizard_tubes_std\tubes\parent.h
+	<iostream>
+
+1734106251 source:d:\github\abizard_tubes_std\tubes\main.cpp
+	"relasi.h"
+
+1734103155 d:\github\abizard_tubes_std\tubes\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1734103499 source:d:\github\abizard_tubes_std\tubes\relasi.cpp
+	"relasi.h"
+
